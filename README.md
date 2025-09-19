@@ -2,7 +2,7 @@
 
 Este projeto apresenta um dashboard interativo criado no Google Looker Studio, analisando dados históricos das Olimpíadas sob diferentes perspectivas.
 
-**[Clique aqui para acessar o relatório interativo]([https://lookerstudio.google.com/sua-url-aqui](https://lookerstudio.google.com/reporting/980988cd-917d-4c99-a605-d4466e43bd1e))**
+**[Clique aqui para acessar o relatório interativo](https://lookerstudio.google.com/reporting/980988cd-917d-4c99-a605-d4466e43bd1e)**
 
 ---
 
